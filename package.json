@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ngx-bootstrap": "^10.2.0",
+    "ngx-socket-io": "^4.4.0"
+  }
+}
